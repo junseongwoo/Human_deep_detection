@@ -1,7 +1,9 @@
-# Human_emotion_race_detection
+# Human_deep_detection
 
 ## Introduction
-사람 얼굴을 인식하고 감정 및 인종을 파악 하는 
+
+이번 프로젝트는 deepface 라이브러리를 이용하여 사람의 감정과 나이, 인종을 감지하는 것을 목표로 했습니다.
+
 ---
 
 ## Dependencies
@@ -12,6 +14,8 @@
 ---
 
 ## Example Output
+
+https://pypi.org/project/deepface/
 
 --- 
 
