@@ -13,7 +13,19 @@
 
 ---
 
+## Problem 
+
+- AttributeError: module 'keras.utils.generic_utils' has no attribute 'populate_dict_with_module_objects' 
+- AttributeError: module 'keras.utils.generic_utils' has no attribute 'to_snake_case' 
+
+## Solve 
+
+-  https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/keras/utils/generic_utils.py 
+-  위의 코드에서 해당 함수를 찾아 직접 넣어주는 것으로 해결 하였습니다.
+
 ## Example Output
+
+![result](result.png)
 
 ---
 ## References
