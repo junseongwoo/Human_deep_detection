@@ -1,4 +1,4 @@
-# Human_deep_detection
+# Human_deepface_detection
 
 ## Introduction
 
